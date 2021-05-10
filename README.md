@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me ...
+- 📫 How to reach me - asamoah.frempong@gmail.com
 
 <!---
 itmogo/itmogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
